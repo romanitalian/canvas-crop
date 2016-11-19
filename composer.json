@@ -1,0 +1,13 @@
+{
+  "name": "romanitalian/CanvasCrop",
+  "description": "Crop image",
+  "type": "composer",
+  "authors": [
+    {
+      "name": "romanitalian",
+      "email": "romanitalian.net@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
