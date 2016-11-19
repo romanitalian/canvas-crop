@@ -12,15 +12,15 @@
   "require": {},
   "autoload": {
     "psr-0": {
-      "\\": "./src"
+      "\\": "src/"
     },
     "psr-4": {
-      "\\": "./src"
+      "\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "\\": "./src"
+      "\\": "src/"
     }
   }
 }
