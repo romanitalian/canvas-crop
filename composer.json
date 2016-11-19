@@ -1,6 +1,7 @@
 {
   "name": "romanitalian/canvas-crop",
   "description": "Crop image",
+  "keywords": ["crop", "image"],
   "type": "composer",
   "authors": [
     {
