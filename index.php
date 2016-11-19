@@ -1,9 +1,3 @@
-# canvas-crop
-Crop your image
-
-###Example of use
-
-```php
 <?php
 
 require_once __DIR__ . '/autoload.php';
@@ -25,5 +19,3 @@ $CanvasCrop->flushImages();
 $CanvasCrop->loadImage('original3.png');
 $CanvasCrop->cropToDimensions(67, 37, 420, 255);
 $CanvasCrop->showImage('png');
-
-```
